@@ -12,7 +12,7 @@
    $\color{lightblue}{\textbf{Ello! I go by Synth, Storm, or Windforce.. windbean...}}$
   
   </p>
-  <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aroacespec ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i><br>Hi I yap alot and I like meeting new people :]<br>omw to spread windforce propaganda /j</p>
+  <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aroacespec ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i><br>Hi I yap alot and I like meeting new people :]</p>
   <p align="center">
    <img src="https://i.ibb.co/SwxMgjRJ/cutiewind.png" width="60px" height="60px"/>
 </p>
