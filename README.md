@@ -9,7 +9,7 @@
 <div align="center">
   <p>
    
-   $\color{lightblue}{\textbf{Ello! I go by Synth, Storm, or Windforce.. windbean...}}$
+   $\color{lightblue}{\textbf{Ello! I go by Synth, Storm, or Windforce..}}$
   
   </p>
   <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aroacespec ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i><br>Hi I yap alot and I like meeting new people :]</p>
