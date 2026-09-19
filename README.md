@@ -51,7 +51,7 @@
   <summary>
     <h3>Image dump for my custom cobblemon texture projects</h3>
   </summary>
-    <p>Here's some of my personal favorite custom cobblemon textures I've made, I decided to keep them somewhere. Though idk how many I'll actually add onto this page.<br>Texture related questions always welcome I'll happily yap about them.<br>Yes, I love scolipede.<br>
+    <p>Oh, huh, you clicked this? How interesting. Anyways here are my favorite custom cobblemon textures I've made for a mc server.<br>It's one of my hobbies, alongside baking. I'm also actively learning to model rblx ugc. 10/10 it's painful but fun.
     </p>
     <img src="https://i.ibb.co/NgpgmYkj/xerneas.png" width="200">
     <img src="https://i.ibb.co/3mwmpYLH/garchomp.png" width="200">
