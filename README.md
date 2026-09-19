@@ -42,25 +42,9 @@
   <td width="50%" align="center">Basic DNI criteria. Don't be a public nuisance who interacts only to cause drama, don't harass, don't be weird, etc.<br><br>I much prefer to stay away from problematic fandoms, but iwc allowed unless you're gonna live up to your fandoms reputation.</td>
  </tr>
 </table>
-<br>
-<table>
- <tr>
-  <th align="center">
-  
-  $\color{lightblue}{\textbf{\textit{INTERESTS}}}$
-   
-  </th>
- </tr>
- <tr>
-  <td align="left">Phighting(rblx), Decaying Winter(rblx), DvN(rblx), Minecraft -> Cobblemon, SSO, Godzilla, Transformers, Rain World, JSAB<br>Muiscccc.. I love music.. esp synthwave and rock... uhh.. can't name more off the top of my head lol. Whatever catches on I guess, I'm open to talking about anything.<br><br>Aspiring minecraft modeller and baker, currently learning to make custom rblx ugc.. 3/4th of the way there</td>
- </tr>
-</table>
-  
   <p align="center">
    <img src="https://i.ibb.co/tPxwm5bW/wind.png" width="113px" height="50px"/> 
   </p>
-  
-  <p></p>
 </div>
 <div align="center">
  <details>
