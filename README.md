@@ -1,7 +1,3 @@
-<p align="center">
-   <img src="https://i.ibb.co/6cZ13h9F/banner2.png" width="100%" height="150px"/> 
-</p>
-
 <div align="center">
   
    $\color{lightblue}{\textbf{\textit{She's like the wind.}}}$
