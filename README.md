@@ -37,7 +37,7 @@
   </th>
  </tr>
  <tr>
-  <td width="50%" align="center">Readers below 16 DNI UNLESS it is a brief, casual or professional interaction.<br><br>I'm totally C+H friendly, chatty and often find myself working on projects in varied groups, but that doesn't automatically make us friends. I might be a little chaotic at times.</td>
+  <td width="50%" align="center">Readers below 16 DNI UNLESS it is a brief, casual or professional interaction.<br><br>I'm totally C+H friendly, chatty and often find myself working on projects in varied groups, but that doesn't automatically make us friends. I might be a little chaotic at times, and I can also be very blunt.</td>
   <td width="50%" align="center">Basic DNI criteria. Don't be a public nuisance who interacts only to cause drama, don't harass, don't be weird, etc.<br><br>I prefer to stay away from problematic fandoms, but iwc allowed unless you're gonna be troublesome.</td>
  </tr>
 </table>
