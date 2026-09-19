@@ -13,7 +13,7 @@
 <div align="center">
   <p>
    
-   $\color{lightblue}{\textbf{Ello! You may call me Synth or Storm,}}$
+   $\color{lightblue}{\textbf{Ello! I go by Synth, Storm, and whatever character I'm currently cosplaying.}}$
   
   </p>
   <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aroacespec ]<br><i>[ Windforc c-link.. I promise I'm not a menace to society. Yet. ]</i><br>Hi I yap alot and I like meeting new people :]<br>omw to spread windforce propaganda /j</p>
