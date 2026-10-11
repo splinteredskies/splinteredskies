@@ -1,6 +1,6 @@
 <div align="left">
   
-> git for ponytown
+> lazy git for ponytown
 
 </div>
 <div align="center">
