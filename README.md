@@ -14,10 +14,10 @@
 <div align="center">
   <p>
    
-   $\color{lightblue}{\textbf{Ello! I go by Synth}}$
+   $\color{lightblue}{\textbf{[ Synth / Windforce ]}}$
   
   </p>
-  <p> [ I'm 18+ !! ] 🗲 [ PL/ENG ] 🗲 [ aroacespec ]<br>Hi I yap alot and I like meeting new people :]</p>
+  <p> [ 18+ yo ] 🗲 [ aroacespec ]<br>Hi I yap alot.</p>
   <p align="center">
    <img src="https://i.ibb.co/SwxMgjRJ/cutiewind.png" width="60px" height="60px"/>
  
