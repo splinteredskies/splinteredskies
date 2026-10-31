@@ -14,7 +14,7 @@
 <div align="center">
   <p>
    
-   $\color{lightblue}{\textbf{[ Aliases: Synth / Storm / Windforce ]}}$
+   $\color{lightblue}{\textbf{[ Aliases: Synth / Horizon / Windforce ]}}$
   
   </p>
   <p> [ 18+ yo ] 🗲 [ aroacespec ]<br>Hi I yap alot.</p>
